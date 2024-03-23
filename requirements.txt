@@ -1,0 +1,9 @@
+flask
+scikit-learn
+datasets
+pandas
+pytest
+Flask-Testing
+pandas
+joblib
+flake8
